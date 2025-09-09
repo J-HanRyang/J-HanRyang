@@ -1,27 +1,115 @@
-### 👋 안녕하세요! 디지털 회로 설계를 공부하는 한지윤입니다.
+### 👋 Hello! I'm Jiyun_Han, studying digital circuit design.
 <br/>
 
-- 🔭 저는 하드웨어 아키텍처와 저전력 설계에 깊은 관심을 가지고 있습니다.
-- 🌱 현재 Verilog와 SystemVerilog를 이용한 RTL 설계 및 검증 방법론을 배우고 있습니다.
-- 📫 연락처: **your-email@email.com** | **[LinkedIn 프로필 링크](https://www.linkedin.com/)**
+- 🔭 I am interested in hardware architecture and low-power design.
+- 🌱 I am currently learning RTL design and verification methodologies using Verilog and SystemVerilog.
+- 📫 연락처: **jiyun.dev00@gmail.com**
 
 <br/>
 
 ### 🛠️ Skills & Tools
-<p align="center">
-  <img src="https://img.shields.io/badge/Verilog-85498D?style=for-the-badge&logo=verilog&logoColor=white">
-  <img src="https://img.shields.io/badge/VHDL-ADB100?style=for-the-badge&logo=vhdl&logoColor=white">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white">
-</p>
+### 🛠️ My Skills & Tools
+
+<br/>
+
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h4>💻 Programming & HDL Languages</h4>
+      <ul>
+        <li>
+          <img src="https://img.shields.io/badge/Verilog-85498D?style=flat-square&logo=verilog&logoColor=white"> 
+          <span style="font-size: 0.9em;">Lv. 8</span>
+          <div style="width: 100px; background-color: #ddd; border-radius: 5px; overflow: hidden; display: inline-block; vertical-align: middle; margin-left: 5px;">
+            <div style="width: 80%; background-color: #4CAF50; height: 10px; border-radius: 5px;"></div>
+          </div>
+        </li>
+        <li>
+          <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"> 
+          <span style="font-size: 0.9em;">Lv. 7</span>
+          <div style="width: 100px; background-color: #ddd; border-radius: 5px; overflow: hidden; display: inline-block; vertical-align: middle; margin-left: 5px;">
+            <div style="width: 70%; background-color: #4CAF50; height: 10px; border-radius: 5px;"></div>
+          </div>
+        </li>
+        <li>
+          <img src="https://img.shields.io/badge/VHDL-ADB100?style=flat-square&logo=vhdl&logoColor=white"> 
+          <span style="font-size: 0.9em;">Lv. 6</span>
+          <div style="width: 100px; background-color: #ddd; border-radius: 5px; overflow: hidden; display: inline-block; vertical-align: middle; margin-left: 5px;">
+            <div style="width: 60%; background-color: #4CAF50; height: 10px; border-radius: 5px;"></div>
+          </div>
+        </li>
+        <li>
+          <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white"> 
+          <span style="font-size: 0.9em;">Lv. 5</span>
+          <div style="width: 100px; background-color: #ddd; border-radius: 5px; overflow: hidden; display: inline-block; vertical-align: middle; margin-left: 5px;">
+            <div style="width: 50%; background-color: #4CAF50; height: 10px; border-radius: 5px;"></div>
+          </div>
+        </li>
+        <li>
+          <img src="https://img.shields.io/badge/SystemVerilog-85498D?style=flat-square&logo=systemverilog&logoColor=white"> 
+          <span style="font-size: 0.9em;">Lv. 2</span>
+          <div style="width: 100px; background-color: #ddd; border-radius: 5px; overflow: hidden; display: inline-block; vertical-align: middle; margin-left: 5px;">
+            <div style="width: 20%; background-color: #4CAF50; height: 10px; border-radius: 5px;"></div>
+          </div>
+        </li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h4>🖥️ Hardware Design Tools (EDA Tools)</h4>
+      <ul>
+        <li>
+          <img src="https://img.shields.io/badge/Xilinx_Vivado-0078A0?style=flat-square&logo=xilinx&logoColor=white"> 
+          <span style="font-size: 0.9em;">Lv. 8</span>
+          <div style="width: 100px; background-color: #ddd; border-radius: 5px; overflow: hidden; display: inline-block; vertical-align: middle; margin-left: 5px;">
+            <div style="width: 80%; background-color: #4CAF50; height: 10px; border-radius: 5px;"></div>
+          </div>
+        </li>
+        <li>
+          <img src="https://img.shields.io/badge/Intel_Quartus-0C3470?style=flat-square&logo=intel&logoColor=white"> 
+          <span style="font-size: 0.9em;">Lv. 6</span>
+          <div style="width: 100px; background-color: #ddd; border-radius: 5px; overflow: hidden; display: inline-block; vertical-align: middle; margin-left: 5px;">
+            <div style="width: 60%; background-color: #4CAF50; height: 10px; border-radius: 5px;"></div>
+          </div>
+        </li>
+        <li>
+          <img src="https://img.shields.io/badge/Mentor_Graphics_QuestaSim-993399?style=flat-square&logo=siemens&logoColor=white"> 
+          <span style="font-size: 0.9em;">Lv. 5</span>
+          <div style="width: 100px; background-color: #ddd; border-radius: 5px; overflow: hidden; display: inline-block; vertical-align: middle; margin-left: 5px;">
+            <div style="width: 50%; background-color: #4CAF50; height: 10px; border-radius: 5px;"></div>
+          </div>
+        </li>
+        <li>
+          <img src="https://img.shields.io/badge/Cadence_Virtuoso-A00B2D?style=flat-square&logo=cadence&logoColor=white"> 
+          <span style="font-size: 0.9em;">Lv. 6</span>
+          <div style="width: 100px; background-color: #ddd; border-radius: 5px; overflow: hidden; display: inline-block; vertical-align: middle; margin-left: 5px;">
+            <div style="width: 60%; background-color: #4CAF50; height: 10px; border-radius: 5px;"></div>
+          </div>
+        </li>
+        <li>
+          <img src="https://img.shields.io/badge/Cadence_Xcelium-A00B2D?style=flat-square&logo=cadence&logoColor=white"> 
+          <span style="font-size: 0.9em;">Lv. 3</span>
+          <div style="width: 100px; background-color: #ddd; border-radius: 5px; overflow: hidden; display: inline-block; vertical-align: middle; margin-left: 5px;">
+            <div style="width: 30%; background-color: #4CAF50; height: 10px; border-radius: 5px;"></div>
+          </div>
+        </li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 <br/>
 
 ### 🚀 Projects
-- **[CNN 가속기 설계 (Verilog)](https://github.com/링크)**
-- **[AES-128 암호화 코어 (Verilog)](https://github.com/링크)**
-- **[Mini CPU 설계 (Verilog)](https://github.com/링크)**
+- **[Semicon_Academi_Digital_Clock (Verilog)](https://github.com/J-HanRyang/Semicon_Academi/tree/main/FPGA_Digital_Clock%20With%202%20Sensors)**
+- **[Semicon_Academi_IRIS (Python)](https://github.com/J-HanRyang/Semicon_Academi/tree/main/Python_Automatical_Project_IRIS)**
+- **[Mini CPU (Verilog)](https://github.com/J-HanRyang/Mini_CPU)**
 
+<br>
+
+**<Note: Some projects are kept in private repositories to respect the copyright of course materials. Access can be granted upon request for review purposes.>**
+- **[CNN Accelerator (Verilog)](https://github.com/J-HanRyang/CNN_Accelerator)
+- **[AES-128 (Verilog)](https://github.com/J-HanRyang/AES_128)
+- **[FIR_Filter (Verilog)](https://github.com/J-HanRyang/Fir_Filter)
 <br/>
 
 ### 📊 GitHub Stats
