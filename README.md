@@ -64,13 +64,13 @@ Please contact me if you would like to check.
 <table width="100%">
   <tr>
     <td width="50%" valign="top" align="center">
-      <h4>GitHub Stats</h4>
+      <h2>GitHub Stats</h4>
       <a href="https://github.com/J-HanRyang">
         <img src="https://github-readme-stats.vercel.app/api?username=J-HanRyang&show_icons=true&theme=radical" alt="J-HanRyang's GitHub stats" />
       </a>
     </td>
     <td width="50%" valign="top" align="center">
-      <h4>Baekjoon Online Judge</h4>
+      <h2>Baekjoon Online Judge</h4>
       <a href="https://solved.ac/eq1023">
         <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=eq1023" alt="Solved.ac Badge" />
       </a>
