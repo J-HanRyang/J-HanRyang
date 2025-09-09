@@ -5,7 +5,8 @@
 ## 👋 Hello! I'm Jiyun_Han, studying digital circuit design.
 - 🔭 I am interested in hardware architecture and low-power design.
 - 🌱 I am currently learning RTL design and verification methodologies using Verilog and SystemVerilog.
-- 📫 연락처: **jiyun.dev00@gmail.com**
+- 📫 **Contaxt : jiyun.dev00@gmail.com**
+- 📜[Notion Link](https://www.notion.so/About-Me-Jiyun_Han-2488967558fc8152ba89f048425c2c84)
 
 <br>
 
@@ -13,7 +14,7 @@
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">💻 What I've Used</h4>
+      <h2 align="center">💻 What I've Used</h4>
       <hr>
       <p align="center">
         <img src="https://img.shields.io/badge/Verilog_HDL-85498D?style=for-the-badge&logo=verilog&logoColor=white">
@@ -26,7 +27,7 @@
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">🔧 Tools</h4>
+      <h2 align="center">🔧 Tools</h4>
       <hr>
       <p align="center">
         <img src="https://img.shields.io/badge/Xilinx_Vivado-0078A0?style=for-the-badge&logo=xilinx&logoColor=white">
@@ -62,21 +63,17 @@ Please contact me if you would like to check.
 ## 📊 Stats & Competitive Programming
 <table width="100%">
   <tr>
-    <td width="50%" valign="top">
-      <h4 align="center">GitHub Stats</h4>
-      <div style="display: flex; justify-content: center; align-items: center;">
-        <a href="https://github.com/J-HanRyang">
-          <img src="https://github-readme-stats.vercel.app/api?username=J-HanRyang&show_icons=true&theme=radical&hide_border=true" alt="J-HanRyang's GitHub stats" />
-        </a>
-      </div>
+    <td width="50%" valign="top" align="center">
+      <h4>GitHub Stats</h4>
+      <a href="https://github.com/J-HanRyang">
+        <img src="https://github-readme-stats.vercel.app/api?username=J-HanRyang&show_icons=true&theme=radical" alt="J-HanRyang's GitHub stats" />
+      </a>
     </td>
-    <td width="50%" valign="top">
-      <h4 align="center">Baekjoon Online Judge</h4>
-      <div style="display: flex; justify-content: center; align-items: center;">
-        <a href="https://solved.ac/eq1023">
-          <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=eq1023" alt="Solved.ac Badge" />
-        </a>
-      </div>
+    <td width="50%" valign="top" align="center">
+      <h4>Baekjoon Online Judge</h4>
+      <a href="https://solved.ac/eq1023">
+        <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=eq1023" alt="Solved.ac Badge" />
+      </a>
     </td>
   </tr>
 </table>
