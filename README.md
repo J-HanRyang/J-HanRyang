@@ -31,12 +31,12 @@
       <p align="center">
         <img src="https://img.shields.io/badge/Xilinx_Vivado-0078A0?style=for-the-badge&logo=xilinx&logoColor=white">
         <img src="https://img.shields.io/badge/Intel_Quartus-0C3470?style=for-the-badge&logo=intel&logoColor=white">
-        <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
         <img src="https://img.shields.io/badge/Mentor_Graphics_QuestaSim-993399?style=for-the-badge&logo=siemens&logoColor=white">
         <img src="https://img.shields.io/badge/Cadence_Virtuoso-A00B2D?style=for-the-badge&logo=cadence&logoColor=white">
         <img src="https://img.shields.io/badge/Cadence_Xcelium-A00B2D?style=for-the-badge&logo=cadence&logoColor=white">
         <img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white">
         <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
+        <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
       </p>
     </td>
   </tr>
