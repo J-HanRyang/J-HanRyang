@@ -6,7 +6,7 @@
 - 🔭 I am interested in hardware architecture and low-power design.
 - 🌱 I am currently learning RTL design and verification methodologies using Verilog and SystemVerilog.
 - 📫 **Contaxt : jiyun.dev00@gmail.com**
-- 📜[Notion Link](https://www.notion.so/About-Me-Jiyun_Han-2488967558fc8152ba89f048425c2c84)
+- 📜 **Notion portfolio : **[Notion Link](https://www.notion.so/About-Me-Jiyun_Han-2488967558fc8152ba89f048425c2c84)
 
 <br>
 
