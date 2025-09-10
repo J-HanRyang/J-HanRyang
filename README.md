@@ -62,7 +62,7 @@ Please contact me if you would like to check.
 <br>
 
 ## 📖 Stydy
-- **[System Verilog Verification] (https://github.com/J-HanRyang/System_Verilog/tree/main)**
+- **[System Verilog Verification](https://github.com/J-HanRyang/System_Verilog/tree/main)**
 
 <br>
 
