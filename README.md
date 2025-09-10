@@ -5,7 +5,7 @@
 ## 👋 Hello! I'm Jiyun_Han, studying digital circuit design.
 - 🔭 I am interested in hardware architecture and low-power design.
 - 🌱 I am currently learning RTL design and verification methodologies using Verilog and SystemVerilog.
-- 📫 **Mail : jiyun.dev00@gmail.com**
+- 📫 **Email : jiyun.dev00@gmail.com**
 - 📜 **Notion portfolio :** **[Notion Link](https://www.notion.so/About-Me-Jiyun_Han-2488967558fc8152ba89f048425c2c84)**
 
 <br>
