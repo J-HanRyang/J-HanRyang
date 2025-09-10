@@ -54,7 +54,10 @@
 
 <**NOTE**> <br>
 Some projects are kept in private repositories to respect the copyright of course materials. <br>
-Please contact me if you would like to check.
+Please contact me if you would like to check. <br><br>
+**These projects are being made public for portfolio purposes.** <br>
+**Use for unethical purposes is prohibited.** <br>
+
 - **[CNN Accelerator (Verilog)](https://github.com/J-HanRyang/CNN_Accelerator)**
 - **[AES-128 (Verilog)](https://github.com/J-HanRyang/AES_128)**
 - **[FIR_Filter (Verilog)](https://github.com/J-HanRyang/Fir_Filter)**
