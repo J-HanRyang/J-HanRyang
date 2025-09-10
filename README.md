@@ -58,6 +58,12 @@ Please contact me if you would like to check.
 - **[CNN Accelerator (Verilog)](https://github.com/J-HanRyang/CNN_Accelerator)**
 - **[AES-128 (Verilog)](https://github.com/J-HanRyang/AES_128)**
 - **[FIR_Filter (Verilog)](https://github.com/J-HanRyang/Fir_Filter)**
+
+<br>
+
+## 📖 Stydy
+- **[System Verilog Verification] (https://github.com/J-HanRyang/System_Verilog/tree/main)**
+
 <br>
 
 ## 📊 Stats & Competitive Programming
