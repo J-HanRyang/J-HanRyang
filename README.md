@@ -48,7 +48,7 @@
 ## 🚀 Projects
 - **[Semicon_Academi_Digital_Clock (Verilog)](https://github.com/J-HanRyang/Semicon_Academi/tree/main/FPGA_Digital_Clock%20With%202%20Sensors)**
 - **[Semicon_Academi_IRIS (Python)](https://github.com/J-HanRyang/Semicon_Academi/tree/main/Python_Automatical_Project_IRIS)**
-- **[Semicon_Academi_RISC_V (System_Verilog)](https://github.com/J-HanRyang/Semicon_Academi/tree/main/RISC_V(RV32I))**
+- **[Semicon_Academi_RISC_V - Single Cycle (System_Verilog)](https://github.com/J-HanRyang/Semicon_Academi/tree/main/RISC_V(RV32I)_SingleCycle)**
 - **[Mini CPU (Verilog)](https://github.com/J-HanRyang/Mini_CPU)**
 
 <br>
