@@ -68,6 +68,7 @@ Please contact me if you would like to check. <br><br>
 ## 📖 Study
 - **[System Verilog Verification](https://github.com/J-HanRyang/System_Verilog/tree/main)**
 - **[AMBA BUS - AXI](https://github.com/J-HanRyang/AXI)**
+- **[UVM](https://github.com/J-HanRyang/UVM)**
 
 <br>
 
