@@ -79,7 +79,7 @@ Please contact me if you would like to check. <br><br>
     <td width="50%" valign="top" align="center">
       <h2>GitHub Stats</h4>
       <a href="https://github.com/J-HanRyang">
-        <img src="https://github-readme-stats.vercel.app/api?username=J-HanRyang&show_icons=true&theme=radical" alt="J-HanRyang's GitHub stats" />
+        <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=J-HanRyang&show_icons=true&theme=radical" alt="J-HanRyang's GitHub stats" />
       </a>
     </td>
     <td width="50%" valign="top" align="center">
