@@ -49,7 +49,7 @@
 - **[Semicon_Academi_Digital_Clock (Verilog)](https://github.com/J-HanRyang/Semicon_Academi/tree/main/FPGA_Digital_Clock%20With%202%20Sensors)**
 - **[Semicon_Academi_IRIS (Python)](https://github.com/J-HanRyang/Semicon_Academi/tree/main/Python_Automatical_Project_IRIS)**
 - **[Semicon_Academi_RISC_V - Single Cycle (System_Verilog)](https://github.com/J-HanRyang/Semicon_Academi/tree/main/RISC_V(RV32I)_SingleCycle)**
-- **[Semicon_Academi FPGA Real-Time Dice Board Game Based on I2C & VGA (System_Verilog](https://github.com/J-HanRyang/Semicon_Academi/tree/main/FPGA%20Real-Time%20Dice%20Board%20Game%20Based%20on%20I2C%20&%20VGA)**
+- **[Semicon_Academi FPGA Real-Time Dice Board Game Based on I2C & VGA (System_Verilog)](https://github.com/J-HanRyang/Semicon_Academi/tree/main/FPGA%20Real-Time%20Dice%20Board%20Game%20Based%20on%20I2C%20&%20VGA)**
 - **[Mini CPU (Verilog)](https://github.com/J-HanRyang/Mini_CPU)**
 
 <br>
