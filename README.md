@@ -67,8 +67,8 @@ Please contact me if you would like to check. <br><br>
 
 ## 📖 Study
 - **[System Verilog Verification](https://github.com/J-HanRyang/System_Verilog/tree/main)**
-- **[AMBA BUS - AXI](https://github.com/J-HanRyang/AXI)**
-- **[UVM](https://github.com/J-HanRyang/UVM)**
+- **[AMBA BUS - AXI](https://github.com/J-HanRyang/AXI)** AXI_Lite / I2C / MicroBlaze 
+- **[UVM](https://github.com/J-HanRyang/UVM)** I2C Verification Used UVM
 - **[VGA](https://github.com/J-HanRyang/VGA)**
 
 <br>
