@@ -61,7 +61,7 @@ Please contact me if you would like to check. <br><br>
 **Use for unethical purposes is prohibited.** <br>
 
 - **[CNN Accelerator (Verilog)](https://github.com/J-HanRyang/CNN_Accelerator)**
-- **[AES-128 (Verilog)](https://github.com/J-HanRyang/AES_128)**
+- **[APB-Based AES-128 SoC Design (Verilog)](https://github.com/J-HanRyang/AES_128)**
 - **[FIR_Filter (Verilog)](https://github.com/J-HanRyang/Fir_Filter)**
 
 <br>
